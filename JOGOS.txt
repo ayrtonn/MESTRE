@@ -1,4 +1,11 @@
 AQUI TEM A LISTA DOS JOGOS DE CADA ALUNO:
--
--
--
+- CS
+- BF
+- Call of Duty
+- GTA
+- Bioshock
+- Dead Space
+- Resident Evil
+- Skyrim
+- FIFA
+- Far Cry
