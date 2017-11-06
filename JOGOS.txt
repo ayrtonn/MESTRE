@@ -83,3 +83,15 @@ Nicolas:
 - Diablo III
 - Portal II
 
+Carlos:
+1- Battlegrounds
+2- Grand Theft Auto V
+3- The Witcher 3
+4- Counter Strike: Global Offensive
+5- LIMBO
+6- Left4Dead 2
+7- Stick Fight
+8- Far Cry 5
+9- Broforce
+10- FlatOut 2
+
