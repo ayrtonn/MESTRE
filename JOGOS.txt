@@ -1,4 +1,5 @@
 AQUI TEM A LISTA DOS JOGOS DE CADA ALUNO:
+<<<<<<< HEAD
 
 JOÃO:
 -Paladins
@@ -46,4 +47,16 @@ Ayrton
 8- Need For Speed Most Wanted
 9- Tibia
 10- Top Gear 2
+
+(Lucas)
+- CS
+- BF
+- Call of Duty
+- GTA
+- Bioshock
+- Dead Space
+- Resident Evil
+- Skyrim
+- FIFA
+- Far Cry
 
